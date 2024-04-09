@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+cd autograder/source
+
+# Prepare submission
+python3 grader.py
