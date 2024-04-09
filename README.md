@@ -6,7 +6,7 @@ We only accept grades from our private autograder on Gradescope.
 
 ## Usage
 ```
-(Put your files under the autograder/submission folder)
+(Put your files under the autograder/submission folder, and your files MUST include a Makefile under the submission folder)
 sh run_autograder
 ```
 
